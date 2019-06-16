@@ -1,5 +1,6 @@
 Last Update: >13.06.2019 
 List by BlackHackedGhost
+Self link for this Repositorie > https://github.com/BlackHackedGhost/MovieNightList
 If u want something ping me in discord ;)
 
 
@@ -15,6 +16,7 @@ Description "what is what" / "what means that??"
 T 		= Translated
 OT 		= Original Title
 <OG>	= Only in german  [Only marked next to the title]
+XX C XX = Converted, Language is shown in {}
 
 some translation may give no sense ;)
 
@@ -22,313 +24,313 @@ some translation may give no sense ;)
 
 
 
-						/// German Title \\\						|		/// Translated Title (1/1 from german to english) \\\		|							/// Original Title \\\							|
+						/// German Title \\\							|		/// Translated Title (1/1 from german to english) \\\		|							/// Original Title \\\							|
 
-Ab Durch die Hecke													T		Off Through the hedge										OT			Over the Hedge
-The Accountant														T		----------------------------------------------------		OT			The Accountant
-Alles steht Kopf													T		Everything is upside down									OT			Inside Out
-Almost Human (2013)													T		----------------------------------------------------		OT			Almost Human (2013)
-The Amazing Spider-Man												T		----------------------------------------------------		OT			The Amazing Spider-Man
-The Amazing Spider-Man 2 Rise Of Electro							T		----------------------------------------------------		OT			The Amazing Spider-Man 2
-American Sniper														T		----------------------------------------------------		OT			American Sniper
-Ant-Man																T		----------------------------------------------------		OT			Ant-Man
-Ant-Man and the Wasp												T		----------------------------------------------------		OT			Ant-Man and the Wasp
-Antigang															T		----------------------------------------------------		OT			Antigang
-Antisocial (2013)													T		----------------------------------------------------		OT			Antisocial (2013)
-Aquaman (2018)														T		----------------------------------------------------		OT			Aquaman (2018)
-Arthur und die Minimoys												T		Arthur and the Minimoys										OT			Arthur et les Minimoys
-Arthur und die Minimoys 2: Die Rückkehr des bösen M					T		Arthur and the Minimoys 2: The Return of the Evil M			OT			Arthur et la Vengeance de Maltazard
-Arthur und die Minimoys 3: Die große Entscheidung					T		Arthur and the Minimoys 3: The big decision					OT			Arthur et la Guerre des deux mondes
-Assassin's Creed													T		----------------------------------------------------		OT			Assassin's Creed
-Astro Boy - Der Film												T		Astro Boy - The Movie										OT			Astro Boy
-Attack the Block													T		----------------------------------------------------		OT			Attack the Block
-Automata															T		----------------------------------------------------		OT			Autómata
-Avatar - Aufbruch nach Pandora										T		Avatar - Departure to Pandora								OT			Avatar
-The Avengers														T		----------------------------------------------------		OT			Marvel’s The Avengers
-Avengers: Age of Ultron												T		----------------------------------------------------		OT			Avengers: Age of Ultron
-Avengers: Infinity War												T		----------------------------------------------------		OT			Avengers: Infinity War
-Barry Seal: Only in America											T		----------------------------------------------------		OT			American Made
-Batman v Superman: Dawn of Justice (Ultimate Edition)				T		----------------------------------------------------		OT			Batman v Superman: Dawn of Justice (Ultimate Edition)
-Baymax: Riesiges Robowabohu											T		Baymax: Huge Robowabohu										OT			Big Hero 6
-Bean - Der ultimative Katastrophenfilm								T		Bean - The ultimate disaster film							OT			Bean
-Bee Movie - Das Honigkomplott										T		Bee Movie - The Honey Conspiracy							OT			Bee Movie
-Berserk - Das goldene Zeitalter 1									T		Berserk - The Golden Age 1									OT			Beruseruku Ōgon Jidai-Hen I: Haō no Tamago
-Berserk - Das goldene Zeitalter 2									T		Berserk - The Golden Age 2									OT			Beruseruku Ōgon Jidai-Hen II: Dorudorei Kōryaku
-Berserk - Das goldene Zeitalter 3									T		Berserk - The Golden Age 3									OT			Beruseruku Ōgon Jidai-Hen III: Kōrin
-Beyond the Front Line - Kampf um Karelien							T		Beyond the Front Line - Battle for Karelia					OT			Beyond the Front Line
-Black Panther														T		----------------------------------------------------		OT			Black Panther
-Blackhat															T		----------------------------------------------------		OT			Blackhat
-Blade Runner 2049													T		----------------------------------------------------		OT			Blade Runner 2049
-Blood-C: The Last Dark												T		----------------------------------------------------		OT			Blood-C: The Last Dark
-Bloodwork															T		----------------------------------------------------		OT			Bloodwork
-Blutzbrüdaz															T		----------------------------------------------------		OT			Blutzbrüdaz
-Butterfly Effect													T		----------------------------------------------------		OT			Butterfly Effect
-Captain America: The First Avenger									T		----------------------------------------------------		OT			Captain America: The First Avenger
-Cast Away - Verschollen												T		Cast Away - Lost											OT			Cast Away
-Chaos im Netz														T		Chaos in the net											OT			Ralph Breaks the Internet
-Chaplin																T		----------------------------------------------------		OT			Chaplin
-Chappie																T		----------------------------------------------------		OT			Chappie
-City of Ember - Flucht aus der Dunkelheit							T		City of Ember - Escape from the Darkness					OT			City of Ember
-Constantine															T		----------------------------------------------------		OT			Constantine
-Cowboys & Aliens													T		----------------------------------------------------		OT			Cowboys & Aliens
-Crank																T		----------------------------------------------------		OT			Crank
-Crank 2: High Voltage												T		----------------------------------------------------		OT			Crank: High Voltage
-Cube Zero															T		----------------------------------------------------		OT			Cube Zero
-The Dark Knight Rises												T		----------------------------------------------------		OT			The Dark Knight Rises
-Das grosse Krabbeln Deluxe											T		The big crawling deluxe										OT			A Bug’s Life
-The Day After Tomorrow												T		----------------------------------------------------		OT			The Day After Tomorrow
-Deadpool															T		----------------------------------------------------		OT			Deadpool
-Deadpool 2															T		----------------------------------------------------		OT			Deadpool 2
-Debug - Feindliches System											T		Debug - Hostile System										OT			Debug
-Der letzte Exorzismus: The Next Chapter								T		The Last Exorcism: The Next Chapter							OT			The Last Exorcism: Part II
-Der Marsianer - Rettet Mark Watney									T		The Martian - Save Mark Watney								OT			The Martian
-Der Schatzplanet													T		The Treasure Planet											OT			Treasure Planet
-Die Abenteuer von Mr. Peabody & Sherman								T		The adventures of Mr. Peabody & Sherman						OT			Mr. Peabody & Sherman
-Die Bestimmung - Allegiant											T		The Destiny - Allegiant										OT			The Divergent Series: Allegiant
-Die Eiskönigin - Völlig unverfroren									T		The Ice Queen - Completely brazen							OT			Frozen
-Die Goonies															T		The Goonies													OT			The Goonies
-Die Insel															T		The Island													OT			The Island
-Die Insel der besonderen Kinder										T		The island of special children								OT			Miss Peregrine’s Home for Peculiar Children
-Die Monster AG														T		The Monster AG												OT			Monsters, Inc.
-Die Monster Uni														T		The Monster Uni												OT			Monsters University
-Die Pinguine aus Madagascar											T		The Penguins of Madagascar									OT			Penguins of Madagascar
-Die Pute von Panem - The Starving Games								T		The Turkey of Panem - The Starving Games					OT			The Starving Games
-Die Tribute von Panem - The Hunger Games							T		The Tributes of Panem - The Hunger Games					OT			The Hunger Games
-Die Tribute von Panem - Catching Fire								T		The Tributes of Panem - Catching Fire						OT			The Hunger Games: Catching Fire
-Die Tribute von Panem - Mockingjay Teil 1							T		The Tributes of Panem - Mockingjay Teil 1					OT			The Hunger Games: Mockingjay – Part 1
-Die Tribute von Panem - Mockingjay Teil 2							T		The Tributes of Panem - Mockingjay Teil 2					OT			The Hunger Games: Mockingjay – Part 2
-Die Unglaublichen													T		The Incredibles												OT			The Incredibles
-Die Unglaublichen 2													T		The Incredibles 2											OT			Incredibles 2
-District 9															T		----------------------------------------------------		OT			District 9
-Doctor Strange (2016)												T		----------------------------------------------------		OT			Doctor Strange (2016)
-Drachenzähmen leicht gemacht										T		Dragon taming made easy										OT			How to Train Your Dragon
-Drachenzähmen leicht gemacht 2										T		Dragon taming made easy 2									OT			How to Train Your Dragon 2
-Dredd																T		----------------------------------------------------		OT			Dredd
-Elysium																T		----------------------------------------------------		OT			Elysium
-Ender's Game: Das grosse Spiel										T		Ender's Game: The Big Game									OT			Ender’s Game
-Epic: Verborgenes Königreich										T		Epic: Hidden Kingdom										OT			Epic
-The Equalizer														T		----------------------------------------------------		OT			The Equalizer
-The Equalizer 2														T		----------------------------------------------------		OT			The Equalizer 2
-Er is wieder da		<OG>											T		He's back	<OG>											OT			Er is wieder da		<OG>
-Escape Plan															T		----------------------------------------------------		OT			Escape Plan
-Escape Plan 2: Hades												T		----------------------------------------------------		OT			Escape Plan 2: Hades
-Ex_Machina															T		----------------------------------------------------		OT			Ex Machina
-The Expandables 1 (Uncut)											T		----------------------------------------------------		OT			The Expendables (Uncut)
-The Expandables	2 (Uncut)											T		----------------------------------------------------		OT			The Expendables 2 (Uncut)
-The Expandables	3 - A Man's Job (Uncut)								T		----------------------------------------------------		OT			The Expendables 3 (Uncut)
-Fack Ju Göthe	1	<OG>											T		----------------------------------------------------		OT			Fack Ju Göthe		<OG>
-Fack Ju Göthe	2	<OG>											T		----------------------------------------------------		OT			Fack Ju Göthe 2		<OG>
-Fack Ju Göthe	3	<OG>											T		----------------------------------------------------		OT			Fack Ju Göthe 3		<OG>
-Fantastic Four (2015)												T		----------------------------------------------------		OT			Fantastic Four (2015)
-The First Avenger: Civil War										T		----------------------------------------------------		OT			Captain America: Civil War
-First Squad															T		----------------------------------------------------		OT			ファースト・スクワッド
-Fluch der Karibik													T		Pirates of the Caribbean									OT			Pirates of the Caribbean: The Curse of the Black Pearl
-Freezer - Rache eiskalt serviert									T		Freezer - revenge served ice-cold							OT			Freezer
-Full Metal Jacket													T		----------------------------------------------------		OT			Full Metal Jacket
-Fullmetal Alchemist: Der Eroberer von Shamballa						T		Fullmetal Alchemist: The Conqueror of Shamballa				OT			劇場版 鋼の錬金術師 シャンバラを征く者
-Ghost in the Shell													T		----------------------------------------------------		OT			Ghost in the Shell
-The Ghostmaker														T		----------------------------------------------------		OT			Box of Shadows
-Gravity																T		----------------------------------------------------		OT			Gravity
-The Green Hornet													T		----------------------------------------------------		OT			The Green Hornet
-Gregs Tagebuch - Von Idioten umzingelt!								T		Greg's diary - surrounded by idiots!						OT			Diary of a Wimpy Kid
-Gregs Tagebuch 2: Gibt's Probleme?									T		Greg's Diary 2: Any problems?								OT			Diary of a Wimpy Kid: Rodrick Rules
-Gregs Tagebuch 3 - Ich war's nicht!									T		Greg's Diary 3 - It wasn't me!								OT			Diary of a Wimpy Kid: Dog Days
-Grosse Haie - Kleine Fische											T		Big Sharks - Small Fish										OT			Shark Tale
-Guardians															T		----------------------------------------------------		OT			Защитники
-Guardians of the Galaxy												T		----------------------------------------------------		OT			Guardians of the Galaxy
-Guardians of the Galaxy vol.2										T		----------------------------------------------------		OT			Guardians of the Galaxy vol.2
-Hannibal Rising - Wie alles begann									T		Hannibal Rising - How it all began							OT			Hannibal Rising
-Hänsel unf Gretel - Hexenjäger										T		Hansel unf Gretel - Witch Hunter							OT			Hansel & Gretel: Witch Hunters
-Hardcore															T		----------------------------------------------------		OT			Hardcore Henry
-Harry Potter und der Stein Weisen 1									T		Harry Potter and the Stone Wise Men							OT			Harry Potter and the Philosopher’s Stone
-Harry Potter und die Kammer des Schreckens 2						T		Harry Potter and the Chamber of Secrets						OT			Harry Potter and the Chamber of Secrets
-Harry Potter und der Gefangene von Askaban 3						T		Harry Potter and the Prisoner of Azkaban					OT			Harry Potter and the Prisoner of Azkaban
-Harry Potter und der Feuerkelch 4									T		Harry Potter and the Goblet of Fire							OT			Harry Potter and the Goblet of Fire
-Harry Potter und der Orden des Phönix 5								T		Harry Potter and the Order of the Phoenix					OT			Harry Potter and the Order of the Phoenix
-Harry Potter und der Halbblutprinz 6								T		Harry Potter and the Half-Blood Prince						OT			Harry Potter and the Half-Blood Prince
-Harry Potter und die Heiligtümer des Todes: Teil 1 7				T		Harry Potter and the Deathly Hallows: Part 1				OT			Harry Potter and the Deathly Hallows – Part 1
-Harry Potter und die Heiligtümer des Todes: Teil 2 7				T		Harry Potter and the Deathly Hallows: Part 2				OT			Harry Potter and the Deathly Hallows – Part 2
-Hellboy																T		----------------------------------------------------		OT			Hellboy
-Hellboy II: Die Goldene Armee										T		Hellboy II: The Golden Army									OT			Hellboy II: The Golden Army
-Hitman: Agent 47													T		----------------------------------------------------		OT			Hitman: Agent 47
-Homefront															T		----------------------------------------------------		OT			Homefront
-Horns (2013)														T		----------------------------------------------------		OT			Horns (2013)
-Hostel, Part III													T		----------------------------------------------------		OT			Hostel: Part III
-The Hungover Games													T		----------------------------------------------------		OT			The Hungover Games
-The Huntsman & the Ice Queen										T		----------------------------------------------------		OT			The Huntsman: Winter’s War
-I Am Legend															T		----------------------------------------------------		OT			I Am Legend
-Ice Age																T		----------------------------------------------------		OT			Ice Age
-Ice Age 2 - Jetzt taut's											T		Ice Age 2 - Now it's thawing								OT			Ice Age: The Meltdown
-Ice Age 3 - Die Dinosaurier sind los								T		Ice Age 3 - The dinosaurs are loose							OT			Ice Age: Dawn of the Dinosaurs
-Ice Age 4: Voll verschoben											T		Ice Age 4: Fully shifted									OT			Ice Age: Continental Drift
-Ich - Einfach unverbesserlich 2 (Despicable Me 2)					T		I - Simply incorrigible 2									OT			Despicable Me 2
-The Imitation Game: Ein streng geheimes Leben						T		The Imitation Game: A Top Secret Life						OT			The Imitation Game
-Indiana Jones und das Königreich des Kristallschädels				T		Indiana Jones and the Kingdom of the Crystal Skull			OT			Indiana Jones and the Kingdom of the Crystal Skull
-Indiana Jones: Jäger des verlorenen Schatzes						T		Indiana Jones: Hunter of the Lost Ark						OT			Raiders of the Lost Ark
-Infini (2015)														T		----------------------------------------------------		OT			Infini (2015)
-Inglorious Basterds													T		----------------------------------------------------		OT			Inglorious Basterds
-Interstellar (2014)													T		----------------------------------------------------		OT			Interstellar (2014)
-Iron Man															T		----------------------------------------------------		OT			Iron Man
-Iron Man 2															T		----------------------------------------------------		OT			Iron Man 2
-Iron Man 3															T		----------------------------------------------------		OT			Iron Man 3
-Iron Sky - Director's Cut											T		----------------------------------------------------		OT			Iron Sky: The Coming Race
-Jack Reacher														T		----------------------------------------------------		OT			Jack Reacher
-Jack Reacher: Kein Weg Zurück										T		Jack Reacher: No way back									OT			Jack Reacher: Never Go Back
-Jagdfieber															T		Hunting fever												OT			Open Season
-Jagdfieber 2														T		Hunting fever 2												OT			Open Season 2
-Jagdfieber 3														T		Hunting fever 3												OT			Open Season 3
-Jin-Roh: The Wolf Brigade											T		----------------------------------------------------		OT			人狼
-Joe's Apartment														T		----------------------------------------------------		OT			Joe's Apartment
-John Wick															T		----------------------------------------------------		OT			John Wick
-John Wick: Kapitel 2												T		John Wick: Chapter 2										OT			John Wick: Chapter 2
-Jurassic World														T		----------------------------------------------------		OT			Jurassic World
-Justice League														T		----------------------------------------------------		OT			Justice League
-Katakomben															T		Catacombs													OT			As Above, So Below
-Kevin Allein zu Hause												T		Kevin Alone at Home											OT			Home Alone
-Kevin - Allein in New York											T		Kevin - Alone in New York									OT			Home Alone 2: Lost in New York
-Kill Command														T		----------------------------------------------------		OT			Kill Command
-Killer Elite														T		----------------------------------------------------		OT			Killer Elite
-Kingsman: The Secret Service										T		----------------------------------------------------		OT			Kingsman: The Secret Service
-Kingsman - The Golden Circle										T		----------------------------------------------------		OT			Kingsman - The Golden Circle
-Kite: Engel der Rache												T		Kite: Angel of Revenge										OT			Kite
-Kong: Skull Island													T		----------------------------------------------------		OT			Kong: Skull Island
-Kung Fu Panda														T		----------------------------------------------------		OT			Kung Fu Panda
-Kung Fu Panda 2														T		----------------------------------------------------		OT			Kung Fu Panda 2
-Kung Fu Panda 3														T		----------------------------------------------------		OT			Kung Fu Panda 3
-Last Days On Mars													T		----------------------------------------------------		OT			Last Days On Mars
-Legend																T		----------------------------------------------------		OT			Legend
-The LEGO Batman Movie												T		----------------------------------------------------		OT			The LEGO Batman Movie
-The LEGO Movie														T		----------------------------------------------------		OT			The LEGO Movie
-The LEGO Movie 2													T		----------------------------------------------------		OT			The LEGO Movie 2
-Léon der Profi (Director's Cut)										T		Léon the professional										OT			Léon
-Life																T		----------------------------------------------------		OT			Life
-Live Die Repeat: Edge of Tomorrow									T		----------------------------------------------------		OT			Edge of Tomorrow
-Lockout																T		----------------------------------------------------		OT			Lockout
-Logan - The Wolverine												T		----------------------------------------------------		OT			Logan
-Lucy																T		----------------------------------------------------		OT			Lucy
-The Machine															T		----------------------------------------------------		OT			The Machine
-Mad Max: Fury Road													T		----------------------------------------------------		OT			Mad Max: Fury Road
-The Magnificent Seven (2016)										T		----------------------------------------------------		OT			The Magnificent Seven
-Malificent - Die dunkle Fee											T		Malificent - The Dark Fairy									OT			Maleficent
-Mardock Scramble: The First Compression	1							T		----------------------------------------------------		OT			マルドゥック・スクランブル 1
-Mardock Scramble: The Second Combustion	2							T		----------------------------------------------------		OT			マルドゥック・スクランブル 2
-Mardock Scramble - The Third Exhaust 3								T		----------------------------------------------------		OT			マルドゥック・スクランブル 3
-Matrix																T		----------------------------------------------------		OT			The Matrix
-Matrix Reloaded														T		----------------------------------------------------		OT			The Matrix Reloaded
-Matrix Revolutions													T		----------------------------------------------------		OT			The Matrix Revolutions
-Mäusejagd															T		Mouse hunting												OT			MouseHunt
-Maze Runner - Die Auserwählten Im Labyrinth 1						T		Maze Runner - The Chosen In the Labyrinth					OT			The Maze Runner
-Maze Runner - Die Auserwählten In Der Brandwüste 2					T		Maze Runner - The Chosen In The Fire Desert					OT			Maze Runner: The Scorch Trials
-Maze Runner - Die Auserwählten In Der Todeszone 3					T		Maze Runner - The Chosen In The Death Zone					OT			Maze Runner: The Death Cure
-The Mechanic														T		----------------------------------------------------		OT			The Mechanic
-Mechanic: Resurrection												T		----------------------------------------------------		OT			Mechanic: Resurrection
-Meine Frau, die Spartaner und ich									T		My wife, the Spartans and I									OT			Meet the Spartans
-Merida: Legende der Highlands										T		----------------------------------------------------		OT			Brave
-Minions																T		----------------------------------------------------		OT			Minions
-Mission: Impossible - Fallout										T		----------------------------------------------------		OT			Mission: Impossible - Fallout
-Mission: Impossible - Rogue Nation									T		----------------------------------------------------		OT			Mission: Impossible – Rogue Nation
-Monsters vs. Aliens													T		----------------------------------------------------		OT			Monsters vs. Aliens
-Need for Speed														T		----------------------------------------------------		OT			Need for Speed
-New Kids Nitro	<OG>												T		----------------------------------------------------		OT			New Kids Nitro
-New Kids Turbo	<OG>												T		----------------------------------------------------		OT			New Kids Turbo
-Nr.5 Gibt Nicht Auf													T		No.5 doesn't give up										OT			Short Circuit 2
-Oben																T		Top															OT			Up
-Oblivion															T		----------------------------------------------------		OT			Oblivion
-Pacific Rim															T		----------------------------------------------------		OT			Pacific Rim
-Pacific Rim: Uprising												T		----------------------------------------------------		OT			Pacific Rim: Uprising
-Pandorum															T		----------------------------------------------------		OT			Pandorum
-Pans Labyrinth														T		----------------------------------------------------		OT			El laberinto del fauno
-Phantastische Tierwesen: Grindelwalds verbrechen					T		Fantastic animal creatures: Grindlewald's crime				OT			Fantastic Beasts: Crimes of Grindlewald
-Phenomenon															T		----------------------------------------------------		OT			Phenomenon
-Pirates of the Caribbean - Fluch der Karibik 2						T		Pirates of the Caribbean 2									OT			Pirates of the Caribbean: Dead Man’s Chest
-Pirates of the Caribbean - Am Ende der Welt							T		Pirates of the Caribbean - At the end of the world			OT			Pirates of the Caribbean: At World’s End
-Pirates of the Caribbean: Fremde Gezeiten							T		Pirates of the Caribbean Foreign tides						OT			Pirates of the Caribbean: On Stranger Tides
-Pitch Black - Planet der Finsternis									T		Pitch Black - Planet of Darkness							OT			Pitch Black
-The Place Promised in our early days								T		----------------------------------------------------		OT			Kumo no Mukō, Yakusoku no Basho
-Planet der Affen - Revelution										T		Planet of the Apes - Revelution								OT			Dawn of the Planet of the Apes
-Predator															T		----------------------------------------------------		OT			Predator
-Predator - Upgrade													T		----------------------------------------------------		OT			The Predator
-Predator 2 (Uncut)													T		----------------------------------------------------		OT			Predator 2
-Predators															T		----------------------------------------------------		OT			Predators
-Prince of Persia: Der Sand der Zeit									T		Prince of Persia: The Sands of Time							OT			Prince of Persia: The Sands of Time
-Project Almanac														T		----------------------------------------------------		OT			Project Almanac
-Project X (Xtended Cut)												T		----------------------------------------------------		OT			Project X (Xtended Cut)
-Prometheus - Dunkle Zeichen											T		Prometheus - Dark Signs										OT			Prometheus
-A Quiet Place														T		----------------------------------------------------		OT			A Quiet Place
-Ralph reichts														T		Ralph is enough												OT			Wreck-It Ralph
-Rango (2011)														T		----------------------------------------------------		OT			Rango (2011)
-Rapunzel: Neu Verföhnt												T		Rapunzel: Newly Reconciled									OT			Tangled
-Ratatouille															T		----------------------------------------------------		OT			Ratatouille
-Ready Player One													T		----------------------------------------------------		OT			Ready Player One
-Real Steel															T		----------------------------------------------------		OT			Real Steel
-Resident Evil: Afterlife											T		----------------------------------------------------		OT			Resident Evil: Afterlife
-Resident Evil: Retribution											T		----------------------------------------------------		OT			Resident Evil: Retribution
-Resident Evil: The Final Chapter									T		----------------------------------------------------		OT			Resident Evil: The Final Chapter
-The Return of the First Avenger										T		----------------------------------------------------		OT			Captain America: The Winter Soldier
-Riddick - Chroniken eines Kriegers									T		Riddick - Chronicles of a Warrior							OT			The Chronicles of Riddick
-Riddick																T		----------------------------------------------------		OT			Riddick
-Rio 2 - Dschungelfieber												T		Rio 2 - Jungle Fever										OT			Rio 2
-Robocop (2014)														T		----------------------------------------------------		OT			RoboCop (2014)
-Robocop 1															T		----------------------------------------------------		OT			RoboCop
-Robocop 2															T		----------------------------------------------------		OT			RoboCop 2
-Rush - Alles für den Sieg											T		Rush - Everything for victory								OT			Rush
-S.W.A.T. - Die Spezialeinheit										T		S.W.A.T. - The Special Forces Unit							OT			S.W.A.T.
-Sausage Party - Es Geht Um die Wurst								T		Sausage Party - It's about the sausage						OT			Sausage Party
-Scary Movie V														T		----------------------------------------------------		OT			Scary Movie 5
-Scott Pilgrim gegen den Rest der Welt								T		Scott Pilgrim against the rest of the world					OT			Scott Pilgrim vs. the World
-Serenity - Flucht in neue Welten									T		Serenity - Escape into New Worlds							OT			Serenity
-Shooter																T		----------------------------------------------------		OT			Shooter
-Sie leben! - They live!												T		They're alive! - They live!									OT			John Carpenter’s They Live
-Sleepless - eine tödliche Nacht										T		Sleepless - a deadly night									OT			Sleepless
-Snow White and the Huntsman											T		----------------------------------------------------		OT			Snow White and the Huntsman
-Snowpiercer															T		----------------------------------------------------		OT			설국열차
-Space Pirate Captain Harlock	<OG>								T		----------------------------------------------------		OT			Kyaputen Hārokku – Space Pirate Captain Harlock
-Spaceballs - Mel Brooks' verrückte Raumfahrt						T		Spaceballs - Mel Brooks' crazy space flight					OT			Spaceballs
-Spider-Man: Homecoming												T		----------------------------------------------------		OT			Spider-Man: Homecoming
-Star Wars: Die dunkle Bedrohung	I									T		Star Wars: The Dark Threat I								OT			Star Wars: Episode I – The Phantom Menace
-Star Wars: Angriff der Klonkrieger II								T		Star Wars: Attack of the Clone Warriors II					OT			Star Wars: Episode II – Attack of the Clones
-Star Wars: Die Rache der Sith III									T		Star Wars: The Revenge of the Sith III						OT			Star Wars: Episode III – Revenge of the Sith
-Star Wars: Eine Neue Hoffnung IV									T		Star Wars: A New Hope IV									OT			Star Wars: Episode IV – A New Hope
-Star Wars: Das Imperium schlägt zurück V							T		Star Wars: The Empire Strikes Back V						OT			Star Wars: Episode V – The Empire Strikes Back
-Star Wars: Die Rückkehr der Jedi-Ritter	VI							T		Star Wars: The Return of the Jedi Knights VI				OT			Star Wars: Episode VI – Return of the Jedi
-Star Wars: Das Erwachen der Macht VII								T		Star Wars: The Awakening of Power VII						OT			Star Wars: The Force Awakens
-Steamboy	<OG>													T		----------------------------------------------------		OT			Steamboy
-Stirb langsam 1														T		Die Hard 1													OT			Die Hard
-Stirb langsam 2														T		Die Hard 2													OT			Die Hard 2: Die Harder
-Stirb langsam 3 - Jetzt erst recht									T		Die Hard 3 - Now more than ever								OT			Die Hard with a Vengeance
-Stirb langsam 4.0													T		Die Hard 4.0												OT			Live Free or Die Hard
-Stirb langsam 5 - Ein guter Tag zum Sterben (Extended Cut)			T		Die Hard 5 - A Good Day to Die (Extended Cut)				OT			A Good Day to Die Hard
-Sucker Punch (Extended Cut)											T		----------------------------------------------------		OT			Sucker Punch
-Suicide Squad (2016)												T		----------------------------------------------------		OT			Suicide Squad (2016)
-Taxi 3																T		----------------------------------------------------		OT			Taxi 3
-Thor: Tag der Entscheidung											T		Thor: Day of the decision									OT			Thor: Ragnarok
-Thor: The Dark Kingdom												T		----------------------------------------------------		OT			Thor: The Dark World
-Total Recall (2012)													T		----------------------------------------------------		OT			Total Recall (2012)
-Transcendence														T		----------------------------------------------------		OT			Transcendence
-The Transporter														T		----------------------------------------------------		OT			Le Transporteur
-The Transporter Refueled											T		----------------------------------------------------		OT			Le Transporteur : Héritage
-Trolls																T		----------------------------------------------------		OT			Trolls
-Tron: Legacy														T		----------------------------------------------------		OT			Tron: Legacy
-Türkisch für Anfänger	<OG>										T		Turkish for beginners										OT			Türkisch für Anfänger
-Unter dem Sand - Das Versprechen der Freiheit						T		Under the Sand - The Promise of Freedom						OT			Under sandet
-Vive la France - Gesprengt wird später	<OG>						T		Vive la France - Blasting will take place later				OT			Vive la France
-Wall-E																T		----------------------------------------------------		OT			Wall-E
-War Dogs (2016)														T		----------------------------------------------------		OT			War Dogs (2016)
-Waterworld															T		----------------------------------------------------		OT			Waterworld
-Who Am I - Kein System ist sicher	<OG>							T		Who Am I - No system is safe								OT			Who Am I - Kein System ist sicher
-The Wolf of Wall Street												T		----------------------------------------------------		OT			The Wolf of Wall Street (2013)
-Wolking mit Aussicht auf Fleischbällchen 1							T		Cloudy with a view of meatballs 1							OT			Cloudy with a Chance of Meatballs
-Wolking mit Aussicht Auf Fleischbällchen 2							T		Cloudy with a view of meatballs 2							OT			Cloudy With a Chance of Meatballs 2
-Wonder Woman (2017)													T		----------------------------------------------------		OT			Wonder Woman (2017)
-A World Beyond														T		----------------------------------------------------		OT			Tomorrowland
-World War Z															T		----------------------------------------------------		OT			World War Z
-X-Men: Apocalypse													T		----------------------------------------------------		OT			X-Men: Apocalypse
-Zoomania															T		----------------------------------------------------		OT			Zootopia
-Zurück in die Zukunft												T		Back to the future I										OT			Back to the Future I
-Zurück in die Zukunft II											T		Back to the future II										OT			Back to the Future II
-Zurück in die Zukunft III											T		Back to the future III										OT			Back to the Future III
-22 Bullets		<OG>												T		----------------------------------------------------		OT			L’Immortel
-28 Days Later														T		----------------------------------------------------		OT			28 Days Later
-28 Weeks Later														T		----------------------------------------------------		OT			28 Weeks Later
-300																	T		----------------------------------------------------		OT			300
-300 - Rise Of An Empire												T		----------------------------------------------------		OT			300: Rise of an Empire
+Ab Durch die Hecke														T		Off Through the hedge										OT			Over the Hedge
+The Accountant															T		----------------------------------------------------		OT			The Accountant
+Alles steht Kopf														T		Everything is upside down									OT			Inside Out
+Almost Human (2013)														T		----------------------------------------------------		OT			Almost Human (2013)
+The Amazing Spider-Man													T		----------------------------------------------------		OT			The Amazing Spider-Man
+The Amazing Spider-Man 2 Rise Of Electro								T		----------------------------------------------------		OT			The Amazing Spider-Man 2
+American Sniper															T		----------------------------------------------------		OT			American Sniper
+Ant-Man																	T		----------------------------------------------------		OT			Ant-Man
+Ant-Man and the Wasp													T		----------------------------------------------------		OT			Ant-Man and the Wasp
+Antigang																T		----------------------------------------------------		OT			Antigang
+Antisocial (2013)														T		----------------------------------------------------		OT			Antisocial (2013)
+Aquaman (2018)										XX C XX	{ENG}		T		----------------------------------------------------		OT			Aquaman (2018)
+Arthur und die Minimoys													T		Arthur and the Minimoys										OT			Arthur et les Minimoys
+Arthur und die Minimoys 2: Die Rückkehr des bösen M						T		Arthur and the Minimoys 2: The Return of the Evil M			OT			Arthur et la Vengeance de Maltazard
+Arthur und die Minimoys 3: Die große Entscheidung						T		Arthur and the Minimoys 3: The big decision					OT			Arthur et la Guerre des deux mondes
+Assassin's Creed														T		----------------------------------------------------		OT			Assassin's Creed
+Astro Boy - Der Film													T		Astro Boy - The Movie										OT			Astro Boy
+Attack the Block														T		----------------------------------------------------		OT			Attack the Block
+Automata																T		----------------------------------------------------		OT			Autómata
+Avatar - Aufbruch nach Pandora											T		Avatar - Departure to Pandora								OT			Avatar
+The Avengers															T		----------------------------------------------------		OT			Marvel’s The Avengers
+Avengers: Age of Ultron													T		----------------------------------------------------		OT			Avengers: Age of Ultron
+Avengers: Infinity War													T		----------------------------------------------------		OT			Avengers: Infinity War
+Barry Seal: Only in America												T		----------------------------------------------------		OT			American Made
+Batman v Superman: Dawn of Justice (Ult. Ed.)							T		----------------------------------------------------		OT			Batman v Superman: Dawn of Justice (Ult.Ed.)
+Baymax: Riesiges Robowabohu							XX C XX	{GER}		T		Baymax: Huge Robowabohu										OT			Big Hero 6
+Bean - Der ultimative Katastrophenfilm									T		Bean - The ultimate disaster film							OT			Bean
+Bee Movie - Das Honigkomplott											T		Bee Movie - The Honey Conspiracy							OT			Bee Movie
+Berserk - Das goldene Zeitalter 1										T		Berserk - The Golden Age 1									OT			Beruseruku Ōgon Jidai-Hen I: Haō no Tamago
+Berserk - Das goldene Zeitalter 2										T		Berserk - The Golden Age 2									OT			Beruseruku Ōgon Jidai-Hen II: Dorudorei Kōryaku
+Berserk - Das goldene Zeitalter 3										T		Berserk - The Golden Age 3									OT			Beruseruku Ōgon Jidai-Hen III: Kōrin
+Beyond the Front Line - Kampf um Karelien								T		Beyond the Front Line - Battle for Karelia					OT			Beyond the Front Line
+Black Panther										XX C XX	{ENG}		T		----------------------------------------------------		OT			Black Panther
+Blackhat																T		----------------------------------------------------		OT			Blackhat
+Blade Runner 2049														T		----------------------------------------------------		OT			Blade Runner 2049
+Blood-C: The Last Dark													T		----------------------------------------------------		OT			Blood-C: The Last Dark
+Bloodwork																T		----------------------------------------------------		OT			Bloodwork
+Blutzbrüdaz																T		----------------------------------------------------		OT			Blutzbrüdaz
+Butterfly Effect														T		----------------------------------------------------		OT			Butterfly Effect
+Captain America: The First Avenger										T		----------------------------------------------------		OT			Captain America: The First Avenger
+Cast Away - Verschollen													T		Cast Away - Lost											OT			Cast Away
+Chaos im Netz										XX C XX	{GER}		T		Chaos in the net											OT			Ralph Breaks the Internet
+Chaplin																	T		----------------------------------------------------		OT			Chaplin
+Chappie																	T		----------------------------------------------------		OT			Chappie
+City of Ember - Flucht aus der Dunkelheit								T		City of Ember - Escape from the Darkness					OT			City of Ember
+Constantine																T		----------------------------------------------------		OT			Constantine
+Cowboys & Aliens														T		----------------------------------------------------		OT			Cowboys & Aliens
+Crank																	T		----------------------------------------------------		OT			Crank
+Crank 2: High Voltage													T		----------------------------------------------------		OT			Crank: High Voltage
+Cube Zero																T		----------------------------------------------------		OT			Cube Zero
+The Dark Knight Rises													T		----------------------------------------------------		OT			The Dark Knight Rises
+Das grosse Krabbeln Deluxe												T		The big crawling deluxe										OT			A Bug’s Life
+The Day After Tomorrow								XX C XX	{GER}		T		----------------------------------------------------		OT			The Day After Tomorrow
+Deadpool																T		----------------------------------------------------		OT			Deadpool
+Deadpool 2																T		----------------------------------------------------		OT			Deadpool 2
+Debug - Feindliches System												T		Debug - Hostile System										OT			Debug
+Der letzte Exorzismus: The Next Chapter									T		The Last Exorcism: The Next Chapter							OT			The Last Exorcism: Part II
+Der Marsianer - Rettet Mark Watney					XX C XX	{GER}		T		The Martian - Save Mark Watney								OT			The Martian
+Der Schatzplanet														T		The Treasure Planet											OT			Treasure Planet
+Die Abenteuer von Mr. Peabody & Sherman									T		The adventures of Mr. Peabody & Sherman						OT			Mr. Peabody & Sherman
+Die Bestimmung - Allegiant												T		The Destiny - Allegiant										OT			The Divergent Series: Allegiant
+Die Eiskönigin - Völlig unverfroren										T		The Ice Queen - Completely brazen							OT			Frozen
+Die Goonies																T		The Goonies													OT			The Goonies
+Die Insel																T		The Island													OT			The Island
+Die Insel der besonderen Kinder											T		The island of special children								OT			Miss Peregrine’s Home for Peculiar Children
+Die Monster AG															T		The Monster AG												OT			Monsters, Inc.
+Die Monster Uni															T		The Monster Uni												OT			Monsters University
+Die Pinguine aus Madagascar												T		The Penguins of Madagascar									OT			Penguins of Madagascar
+Die Pute von Panem - The Starving Games									T		The Turkey of Panem - The Starving Games					OT			The Starving Games
+Die Tribute von Panem - The Hunger Games								T		The Tributes of Panem - The Hunger Games					OT			The Hunger Games
+Die Tribute von Panem - Catching Fire									T		The Tributes of Panem - Catching Fire						OT			The Hunger Games: Catching Fire
+Die Tribute von Panem - Mockingjay Teil 1								T		The Tributes of Panem - Mockingjay Teil 1					OT			The Hunger Games: Mockingjay – Part 1
+Die Tribute von Panem - Mockingjay Teil 2								T		The Tributes of Panem - Mockingjay Teil 2					OT			The Hunger Games: Mockingjay – Part 2
+Die Unglaublichen														T		The Incredibles												OT			The Incredibles
+Die Unglaublichen 2														T		The Incredibles 2											OT			Incredibles 2
+District 9																T		----------------------------------------------------		OT			District 9
+Doctor Strange (2016)													T		----------------------------------------------------		OT			Doctor Strange (2016)
+Drachenzähmen leicht gemacht						XX C XX	{GER}		T		Dragon taming made easy										OT			How to Train Your Dragon
+Drachenzähmen leicht gemacht 2						XX C XX	{GER}		T		Dragon taming made easy 2									OT			How to Train Your Dragon 2
+Dredd																	T		----------------------------------------------------		OT			Dredd
+Elysium																	T		----------------------------------------------------		OT			Elysium
+Ender's Game: Das grosse Spiel											T		Ender's Game: The Big Game									OT			Ender’s Game
+Epic: Verborgenes Königreich											T		Epic: Hidden Kingdom										OT			Epic
+The Equalizer															T		----------------------------------------------------		OT			The Equalizer
+The Equalizer 2															T		----------------------------------------------------		OT			The Equalizer 2
+Er is wieder da		<OG>												T		He's back	<OG>											OT			Er is wieder da		<OG>
+Escape Plan																T		----------------------------------------------------		OT			Escape Plan
+Escape Plan 2: Hades													T		----------------------------------------------------		OT			Escape Plan 2: Hades
+Ex_Machina																T		----------------------------------------------------		OT			Ex Machina
+The Expandables 1 (Uc)													T		----------------------------------------------------		OT			The Expendables (Uc)
+The Expandables	2 (Uc)													T		----------------------------------------------------		OT			The Expendables 2 (Uc)
+The Expandables	3 - A Man's Job (Uc)									T		----------------------------------------------------		OT			The Expendables 3 (Uc)
+Fack Ju Göthe	1	<OG>												T		----------------------------------------------------		OT			Fack Ju Göthe		<OG>
+Fack Ju Göthe	2	<OG>												T		----------------------------------------------------		OT			Fack Ju Göthe 2		<OG>
+Fack Ju Göthe	3	<OG>												T		----------------------------------------------------		OT			Fack Ju Göthe 3		<OG>
+Fantastic Four (2015)													T		----------------------------------------------------		OT			Fantastic Four (2015)
+The First Avenger: Civil War											T		----------------------------------------------------		OT			Captain America: Civil War
+First Squad																T		----------------------------------------------------		OT			ファースト・スクワッド
+Fluch der Karibik														T		Pirates of the Caribbean									OT			Pirates of the Caribbean: The Curse of the Black Pearl
+Freezer - Rache eiskalt serviert										T		Freezer - revenge served ice-cold							OT			Freezer
+Full Metal Jacket														T		----------------------------------------------------		OT			Full Metal Jacket
+Fullmetal Alchemist: Der Eroberer von Shamballa							T		Fullmetal Alchemist: The Conqueror of Shamballa				OT			劇場版 鋼の錬金術師 シャンバラを征く者
+Ghost in the Shell									XX C XX	{ENG}		T		----------------------------------------------------		OT			Ghost in the Shell
+The Ghostmaker															T		----------------------------------------------------		OT			Box of Shadows
+Gravity																	T		----------------------------------------------------		OT			Gravity
+The Green Hornet														T		----------------------------------------------------		OT			The Green Hornet
+Gregs Tagebuch - Von Idioten umzingelt!									T		Greg's diary - surrounded by idiots!						OT			Diary of a Wimpy Kid
+Gregs Tagebuch 2: Gibt's Probleme?										T		Greg's Diary 2: Any problems?								OT			Diary of a Wimpy Kid: Rodrick Rules
+Gregs Tagebuch 3 - Ich war's nicht!										T		Greg's Diary 3 - It wasn't me!								OT			Diary of a Wimpy Kid: Dog Days
+Grosse Haie - Kleine Fische												T		Big Sharks - Small Fish										OT			Shark Tale
+Guardians																T		----------------------------------------------------		OT			Защитники
+Guardians of the Galaxy													T		----------------------------------------------------		OT			Guardians of the Galaxy
+Guardians of the Galaxy vol.2											T		----------------------------------------------------		OT			Guardians of the Galaxy vol.2
+Hannibal Rising - Wie alles begann										T		Hannibal Rising - How it all began							OT			Hannibal Rising
+Hänsel unf Gretel - Hexenjäger											T		Hansel unf Gretel - Witch Hunter							OT			Hansel & Gretel: Witch Hunters
+Hardcore											XX C XX	{GER}		T		----------------------------------------------------		OT			Hardcore Henry
+Harry Potter und der Stein Weisen 1										T		Harry Potter and the Stone Wise Men							OT			Harry Potter and the Philosopher’s Stone
+Harry Potter und die Kammer des Schreckens 2							T		Harry Potter and the Chamber of Secrets						OT			Harry Potter and the Chamber of Secrets
+Harry Potter und der Gefangene von Askaban 3							T		Harry Potter and the Prisoner of Azkaban					OT			Harry Potter and the Prisoner of Azkaban
+Harry Potter und der Feuerkelch 4										T		Harry Potter and the Goblet of Fire							OT			Harry Potter and the Goblet of Fire
+Harry Potter und der Orden des Phönix 5									T		Harry Potter and the Order of the Phoenix					OT			Harry Potter and the Order of the Phoenix
+Harry Potter und der Halbblutprinz 6									T		Harry Potter and the Half-Blood Prince						OT			Harry Potter and the Half-Blood Prince
+Harry Potter und die Heiligtümer des Todes: Teil 1 7					T		Harry Potter and the Deathly Hallows: Part 1				OT			Harry Potter and the Deathly Hallows – Part 1
+Harry Potter und die Heiligtümer des Todes: Teil 2 7					T		Harry Potter and the Deathly Hallows: Part 2				OT			Harry Potter and the Deathly Hallows – Part 2
+Hellboy																	T		----------------------------------------------------		OT			Hellboy
+Hellboy II: Die Goldene Armee											T		Hellboy II: The Golden Army									OT			Hellboy II: The Golden Army
+Hitman: Agent 47														T		----------------------------------------------------		OT			Hitman: Agent 47
+Homefront																T		----------------------------------------------------		OT			Homefront
+Horns (2013)															T		----------------------------------------------------		OT			Horns (2013)
+Hostel, Part III														T		----------------------------------------------------		OT			Hostel: Part III
+The Hungover Games														T		----------------------------------------------------		OT			The Hungover Games
+The Huntsman & the Ice Queen											T		----------------------------------------------------		OT			The Huntsman: Winter’s War
+I Am Legend																T		----------------------------------------------------		OT			I Am Legend
+Ice Age																	T		----------------------------------------------------		OT			Ice Age
+Ice Age 2 - Jetzt taut's												T		Ice Age 2 - Now it's thawing								OT			Ice Age: The Meltdown
+Ice Age 3 - Die Dinosaurier sind los									T		Ice Age 3 - The dinosaurs are loose							OT			Ice Age: Dawn of the Dinosaurs
+Ice Age 4: Voll verschoben												T		Ice Age 4: Fully shifted									OT			Ice Age: Continental Drift
+Ich - Einfach unverbesserlich 2 (Despicable Me 2)						T		I - Simply incorrigible 2									OT			Despicable Me 2
+The Imitation Game: Ein streng geheimes Leben							T		The Imitation Game: A Top Secret Life						OT			The Imitation Game
+Indiana Jones und das Königreich des Kristallschädels					T		Indiana Jones and the Kingdom of the Crystal Skull			OT			Indiana Jones and the Kingdom of the Crystal Skull
+Indiana Jones: Jäger des verlorenen Schatzes							T		Indiana Jones: Hunter of the Lost Ark						OT			Raiders of the Lost Ark
+Infini (2015)															T		----------------------------------------------------		OT			Infini (2015)
+Inglorious Basterds														T		----------------------------------------------------		OT			Inglorious Basterds
+Interstellar (2014)														T		----------------------------------------------------		OT			Interstellar (2014)
+Iron Man																T		----------------------------------------------------		OT			Iron Man
+Iron Man 2																T		----------------------------------------------------		OT			Iron Man 2
+Iron Man 3																T		----------------------------------------------------		OT			Iron Man 3
+Iron Sky - Director's Cut												T		----------------------------------------------------		OT			Iron Sky: The Coming Race
+Jack Reacher															T		----------------------------------------------------		OT			Jack Reacher
+Jack Reacher: Kein Weg Zurück											T		Jack Reacher: No way back									OT			Jack Reacher: Never Go Back
+Jagdfieber																T		Hunting fever												OT			Open Season
+Jagdfieber 2															T		Hunting fever 2												OT			Open Season 2
+Jagdfieber 3															T		Hunting fever 3												OT			Open Season 3
+Jin-Roh: The Wolf Brigade												T		----------------------------------------------------		OT			人狼
+Joe's Apartment															T		----------------------------------------------------		OT			Joe's Apartment
+John Wick																T		----------------------------------------------------		OT			John Wick
+John Wick: Kapitel 2													T		John Wick: Chapter 2										OT			John Wick: Chapter 2
+Jurassic World															T		----------------------------------------------------		OT			Jurassic World
+Justice League															T		----------------------------------------------------		OT			Justice League
+Katakomben																T		Catacombs													OT			As Above, So Below
+Kevin Allein zu Hause													T		Kevin Alone at Home											OT			Home Alone
+Kevin - Allein in New York												T		Kevin - Alone in New York									OT			Home Alone 2: Lost in New York
+Kill Command															T		----------------------------------------------------		OT			Kill Command
+Killer Elite															T		----------------------------------------------------		OT			Killer Elite
+Kingsman: The Secret Service											T		----------------------------------------------------		OT			Kingsman: The Secret Service
+Kingsman - The Golden Circle											T		----------------------------------------------------		OT			Kingsman - The Golden Circle
+Kite: Engel der Rache													T		Kite: Angel of Revenge										OT			Kite
+Kong: Skull Island														T		----------------------------------------------------		OT			Kong: Skull Island
+Kung Fu Panda										XX C XX	{GER}		T		----------------------------------------------------		OT			Kung Fu Panda
+Kung Fu Panda 2										XX C XX	{GER}		T		----------------------------------------------------		OT			Kung Fu Panda 2
+Kung Fu Panda 3										XX C XX	{GER}		T		----------------------------------------------------		OT			Kung Fu Panda 3
+Last Days On Mars														T		----------------------------------------------------		OT			Last Days On Mars
+Legend																	T		----------------------------------------------------		OT			Legend
+The LEGO Batman Movie													T		----------------------------------------------------		OT			The LEGO Batman Movie
+The LEGO Movie															T		----------------------------------------------------		OT			The LEGO Movie
+The LEGO Movie 2														T		----------------------------------------------------		OT			The LEGO Movie 2
+Léon der Profi (Director's Cut)											T		Léon the professional										OT			Léon
+Life																	T		----------------------------------------------------		OT			Life
+Live Die Repeat: Edge of Tomorrow										T		----------------------------------------------------		OT			Edge of Tomorrow
+Lockout																	T		----------------------------------------------------		OT			Lockout
+Logan - The Wolverine													T		----------------------------------------------------		OT			Logan
+Lucy																	T		----------------------------------------------------		OT			Lucy
+The Machine																T		----------------------------------------------------		OT			The Machine
+Mad Max: Fury Road														T		----------------------------------------------------		OT			Mad Max: Fury Road
+The Magnificent Seven (2016)											T		----------------------------------------------------		OT			The Magnificent Seven
+Malificent - Die dunkle Fee												T		Malificent - The Dark Fairy									OT			Maleficent
+Mardock Scramble: The First Compression	1								T		----------------------------------------------------		OT			マルドゥック・スクランブル 1
+Mardock Scramble: The Second Combustion	2								T		----------------------------------------------------		OT			マルドゥック・スクランブル 2
+Mardock Scramble - The Third Exhaust 3									T		----------------------------------------------------		OT			マルドゥック・スクランブル 3
+Matrix																	T		----------------------------------------------------		OT			The Matrix
+Matrix Reloaded															T		----------------------------------------------------		OT			The Matrix Reloaded
+Matrix Revolutions														T		----------------------------------------------------		OT			The Matrix Revolutions
+Mäusejagd																T		Mouse hunting												OT			MouseHunt
+Maze Runner - Die Auserwählten Im Labyrinth 1							T		Maze Runner - The Chosen In the Labyrinth					OT			The Maze Runner
+Maze Runner - Die Auserwählten In Der Brandwüste 2						T		Maze Runner - The Chosen In The Fire Desert					OT			Maze Runner: The Scorch Trials
+Maze Runner - Die Auserwählten In Der Todeszone 3						T		Maze Runner - The Chosen In The Death Zone					OT			Maze Runner: The Death Cure
+The Mechanic															T		----------------------------------------------------		OT			The Mechanic
+Mechanic: Resurrection													T		----------------------------------------------------		OT			Mechanic: Resurrection
+Meine Frau, die Spartaner und ich										T		My wife, the Spartans and I									OT			Meet the Spartans
+Merida: Legende der Highlands											T		----------------------------------------------------		OT			Brave
+Minions																	T		----------------------------------------------------		OT			Minions
+Mission: Impossible - Fallout											T		----------------------------------------------------		OT			Mission: Impossible - Fallout
+Mission: Impossible - Rogue Nation										T		----------------------------------------------------		OT			Mission: Impossible – Rogue Nation
+Monsters vs. Aliens														T		----------------------------------------------------		OT			Monsters vs. Aliens
+Need for Speed															T		----------------------------------------------------		OT			Need for Speed
+New Kids Nitro	<OG>													T		----------------------------------------------------		OT			New Kids Nitro
+New Kids Turbo	<OG>													T		----------------------------------------------------		OT			New Kids Turbo
+Nr.5 Gibt Nicht Auf														T		No.5 doesn't give up										OT			Short Circuit 2
+Oben																	T		Top															OT			Up
+Oblivion																T		----------------------------------------------------		OT			Oblivion
+Pacific Rim																T		----------------------------------------------------		OT			Pacific Rim
+Pacific Rim: Uprising													T		----------------------------------------------------		OT			Pacific Rim: Uprising
+Pandorum																T		----------------------------------------------------		OT			Pandorum
+Pans Labyrinth															T		----------------------------------------------------		OT			El laberinto del fauno
+Phantastische Tierwesen: Grindelwalds verbrechen						T		Fantastic animal creatures: Grindlewald's crime				OT			Fantastic Beasts: Crimes of Grindlewald
+Phenomenon																T		----------------------------------------------------		OT			Phenomenon
+Pirates of the Caribbean - Fluch der Karibik 2							T		Pirates of the Caribbean 2									OT			Pirates of the Caribbean: Dead Man’s Chest
+Pirates of the Caribbean - Am Ende der Welt								T		Pirates of the Caribbean - At the end of the world			OT			Pirates of the Caribbean: At World’s End
+Pirates of the Caribbean: Fremde Gezeiten								T		Pirates of the Caribbean Foreign tides						OT			Pirates of the Caribbean: On Stranger Tides
+Pitch Black - Planet der Finsternis										T		Pitch Black - Planet of Darkness							OT			Pitch Black
+The Place Promised in our early days									T		----------------------------------------------------		OT			Kumo no Mukō, Yakusoku no Basho
+Planet der Affen - Revelution											T		Planet of the Apes - Revelution								OT			Dawn of the Planet of the Apes
+Predator																T		----------------------------------------------------		OT			Predator
+Predator - Upgrade														T		----------------------------------------------------		OT			The Predator
+Predator 2 (Uncut)														T		----------------------------------------------------		OT			Predator 2
+Predators																T		----------------------------------------------------		OT			Predators
+Prince of Persia: Der Sand der Zeit										T		Prince of Persia: The Sands of Time							OT			Prince of Persia: The Sands of Time
+Project Almanac															T		----------------------------------------------------		OT			Project Almanac
+Project X (Xtended Cut)													T		----------------------------------------------------		OT			Project X (Xtended Cut)
+Prometheus - Dunkle Zeichen												T		Prometheus - Dark Signs										OT			Prometheus
+A Quiet Place															T		----------------------------------------------------		OT			A Quiet Place
+Ralph reichts															T		Ralph is enough												OT			Wreck-It Ralph
+Rango (2011)															T		----------------------------------------------------		OT			Rango (2011)
+Rapunzel: Neu Verföhnt													T		Rapunzel: Newly Reconciled									OT			Tangled
+Ratatouille																T		----------------------------------------------------		OT			Ratatouille
+Ready Player One									XX C XX	{ENG,GER}	T		----------------------------------------------------		OT			Ready Player One
+Real Steel																T		----------------------------------------------------		OT			Real Steel
+Resident Evil: Afterlife												T		----------------------------------------------------		OT			Resident Evil: Afterlife
+Resident Evil: Retribution												T		----------------------------------------------------		OT			Resident Evil: Retribution
+Resident Evil: The Final Chapter										T		----------------------------------------------------		OT			Resident Evil: The Final Chapter
+The Return of the First Avenger											T		----------------------------------------------------		OT			Captain America: The Winter Soldier
+Riddick - Chroniken eines Kriegers										T		Riddick - Chronicles of a Warrior							OT			The Chronicles of Riddick
+Riddick																	T		----------------------------------------------------		OT			Riddick
+Rio 2 - Dschungelfieber													T		Rio 2 - Jungle Fever										OT			Rio 2
+Robocop (2014)															T		----------------------------------------------------		OT			RoboCop (2014)
+Robocop 1																T		----------------------------------------------------		OT			RoboCop
+Robocop 2																T		----------------------------------------------------		OT			RoboCop 2
+Rush - Alles für den Sieg												T		Rush - Everything for victory								OT			Rush
+S.W.A.T. - Die Spezialeinheit											T		S.W.A.T. - The Special Forces Unit							OT			S.W.A.T.
+Sausage Party - Es Geht Um die Wurst									T		Sausage Party - It's about the sausage						OT			Sausage Party
+Scary Movie V															T		----------------------------------------------------		OT			Scary Movie 5
+Scott Pilgrim gegen den Rest der Welt									T		Scott Pilgrim against the rest of the world					OT			Scott Pilgrim vs. the World
+Serenity - Flucht in neue Welten										T		Serenity - Escape into New Worlds							OT			Serenity
+Shooter																	T		----------------------------------------------------		OT			Shooter
+Sie leben! - They live!													T		They're alive! - They live!									OT			John Carpenter’s They Live
+Sleepless - eine tödliche Nacht											T		Sleepless - a deadly night									OT			Sleepless
+Snow White and the Huntsman												T		----------------------------------------------------		OT			Snow White and the Huntsman
+Snowpiercer											XX C XX	{GER}		T		----------------------------------------------------		OT			설국열차
+Space Pirate Captain Harlock	<OG>									T		----------------------------------------------------		OT			Kyaputen Hārokku – Space Pirate Captain Harlock
+Spaceballs - Mel Brooks' verrückte Raumfahrt							T		Spaceballs - Mel Brooks' crazy space flight					OT			Spaceballs
+Spider-Man: Homecoming													T		----------------------------------------------------		OT			Spider-Man: Homecoming
+Star Wars: Die dunkle Bedrohung	I										T		Star Wars: The Dark Threat I								OT			Star Wars: Episode I – The Phantom Menace
+Star Wars: Angriff der Klonkrieger II									T		Star Wars: Attack of the Clone Warriors II					OT			Star Wars: Episode II – Attack of the Clones
+Star Wars: Die Rache der Sith III										T		Star Wars: The Revenge of the Sith III						OT			Star Wars: Episode III – Revenge of the Sith
+Star Wars: Eine Neue Hoffnung IV										T		Star Wars: A New Hope IV									OT			Star Wars: Episode IV – A New Hope
+Star Wars: Das Imperium schlägt zurück V								T		Star Wars: The Empire Strikes Back V						OT			Star Wars: Episode V – The Empire Strikes Back
+Star Wars: Die Rückkehr der Jedi-Ritter	VI								T		Star Wars: The Return of the Jedi Knights VI				OT			Star Wars: Episode VI – Return of the Jedi
+Star Wars: Das Erwachen der Macht VII									T		Star Wars: The Awakening of Power VII						OT			Star Wars: The Force Awakens
+Steamboy	<OG>														T		----------------------------------------------------		OT			Steamboy
+Stirb langsam 1															T		Die Hard 1													OT			Die Hard
+Stirb langsam 2															T		Die Hard 2													OT			Die Hard 2: Die Harder
+Stirb langsam 3 - Jetzt erst recht										T		Die Hard 3 - Now more than ever								OT			Die Hard with a Vengeance
+Stirb langsam 4.0														T		Die Hard 4.0												OT			Live Free or Die Hard
+Stirb langsam 5 - Ein guter Tag zum Sterben (Ex.C.)						T		Die Hard 5 - A Good Day to Die (Extended Cut)				OT			A Good Day to Die Hard
+Sucker Punch (Extended Cut)												T		----------------------------------------------------		OT			Sucker Punch
+Suicide Squad (2016)													T		----------------------------------------------------		OT			Suicide Squad (2016)
+Taxi 3																	T		----------------------------------------------------		OT			Taxi 3
+Thor: Tag der Entscheidung												T		Thor: Day of the decision									OT			Thor: Ragnarok
+Thor: The Dark Kingdom													T		----------------------------------------------------		OT			Thor: The Dark World
+Total Recall (2012)														T		----------------------------------------------------		OT			Total Recall (2012)
+Transcendence															T		----------------------------------------------------		OT			Transcendence
+The Transporter															T		----------------------------------------------------		OT			Le Transporteur
+The Transporter Refueled												T		----------------------------------------------------		OT			Le Transporteur : Héritage
+Trolls																	T		----------------------------------------------------		OT			Trolls
+Tron: Legacy															T		----------------------------------------------------		OT			Tron: Legacy
+Türkisch für Anfänger	<OG>											T		Turkish for beginners										OT			Türkisch für Anfänger
+Unter dem Sand - Das Versprechen der Freiheit							T		Under the Sand - The Promise of Freedom						OT			Under sandet
+Vive la France - Gesprengt wird später	<OG>							T		Vive la France - Blasting will take place later				OT			Vive la France
+Wall-E																	T		----------------------------------------------------		OT			Wall-E
+War Dogs (2016)															T		----------------------------------------------------		OT			War Dogs (2016)
+Waterworld																T		----------------------------------------------------		OT			Waterworld
+Who Am I - Kein System ist sicher	<OG>								T		Who Am I - No system is safe								OT			Who Am I - Kein System ist sicher
+The Wolf of Wall Street													T		----------------------------------------------------		OT			The Wolf of Wall Street (2013)
+Wolking mit Aussicht auf Fleischbällchen 1								T		Cloudy with a view of meatballs 1							OT			Cloudy with a Chance of Meatballs
+Wolking mit Aussicht Auf Fleischbällchen 2								T		Cloudy with a view of meatballs 2							OT			Cloudy With a Chance of Meatballs 2
+Wonder Woman (2017)														T		----------------------------------------------------		OT			Wonder Woman (2017)
+A World Beyond										XX C XX	{GER}		T		----------------------------------------------------		OT			Tomorrowland
+World War Z																T		----------------------------------------------------		OT			World War Z
+X-Men: Apocalypse														T		----------------------------------------------------		OT			X-Men: Apocalypse
+Zoomania																T		----------------------------------------------------		OT			Zootopia
+Zurück in die Zukunft													T		Back to the future I										OT			Back to the Future I
+Zurück in die Zukunft II												T		Back to the future II										OT			Back to the Future II
+Zurück in die Zukunft III												T		Back to the future III										OT			Back to the Future III
+22 Bullets		<OG>													T		----------------------------------------------------		OT			L’Immortel
+28 Days Later															T		----------------------------------------------------		OT			28 Days Later
+28 Weeks Later															T		----------------------------------------------------		OT			28 Weeks Later
+300																		T		----------------------------------------------------		OT			300
+300 - Rise Of An Empire													T		----------------------------------------------------		OT			300: Rise of an Empire
