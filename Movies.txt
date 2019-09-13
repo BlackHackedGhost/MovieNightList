@@ -28,6 +28,7 @@ some translation may give no sense ;)
 
 Ab Durch die Hecke														T		Off Through the hedge										OT			Over the Hedge
 The Accountant															T		----------------------------------------------------		OT			The Accountant
+Alita: Battle Angle														T		----------------------------------------------------		OT			Alita: Battle Angle
 Alles steht Kopf														T		Everything is upside down									OT			Inside Out
 Almost Human (2013)														T		----------------------------------------------------		OT			Almost Human (2013)
 The Amazing Spider-Man													T		----------------------------------------------------		OT			The Amazing Spider-Man
@@ -215,6 +216,7 @@ Malificent - Die dunkle Fee												T		Malificent - The Dark Fairy									OT
 Mardock Scramble: The First Compression	1								T		----------------------------------------------------		OT			マルドゥック・スクランブル 1
 Mardock Scramble: The Second Combustion	2								T		----------------------------------------------------		OT			マルドゥック・スクランブル 2
 Mardock Scramble - The Third Exhaust 3									T		----------------------------------------------------		OT			マルドゥック・スクランブル 3
+Marvel Studios Avengers: Endgame										T		----------------------------------------------------		OT			Avengers: Endgame
 Matrix																	T		----------------------------------------------------		OT			The Matrix
 Matrix Reloaded															T		----------------------------------------------------		OT			The Matrix Reloaded
 Matrix Revolutions														T		----------------------------------------------------		OT			The Matrix Revolutions
@@ -240,6 +242,7 @@ Pacific Rim																T		--------------------------------------------------
 Pacific Rim: Uprising													T		----------------------------------------------------		OT			Pacific Rim: Uprising
 Pandorum																T		----------------------------------------------------		OT			Pandorum
 Pans Labyrinth															T		----------------------------------------------------		OT			El laberinto del fauno
+Passwort: Swordfish														T		Password: Swordfish											OT			Swordfish
 Phantastische Tierwesen: Grindelwalds verbrechen						T		Fantastic animal creatures: Grindlewald's crime				OT			Fantastic Beasts: Crimes of Grindlewald
 Phenomenon																T		----------------------------------------------------		OT			Phenomenon
 Pirates of the Caribbean - Fluch der Karibik 2							T		Pirates of the Caribbean 2									OT			Pirates of the Caribbean: Dead Man’s Chest
@@ -248,6 +251,7 @@ Pirates of the Caribbean: Fremde Gezeiten								T		Pirates of the Caribbean For
 Pitch Black - Planet der Finsternis										T		Pitch Black - Planet of Darkness							OT			Pitch Black
 The Place Promised in our early days									T		----------------------------------------------------		OT			Kumo no Mukō, Yakusoku no Basho
 Planet der Affen - Revelution											T		Planet of the Apes - Revelution								OT			Dawn of the Planet of the Apes
+Pokémon Meisterdetektiv Pikachu											T		Pokémon Master Detective Pikachu							OT			Pokémon: Detective Pikachu
 Predator																T		----------------------------------------------------		OT			Predator
 Predator - Upgrade														T		----------------------------------------------------		OT			The Predator
 Predator 2 (Uncut)														T		----------------------------------------------------		OT			Predator 2
@@ -263,6 +267,7 @@ Rapunzel: Neu Verföhnt													T		Rapunzel: Newly Reconciled									OT			T
 Ratatouille																T		----------------------------------------------------		OT			Ratatouille
 Ready Player One									XX C XX	{ENG,GER}	T		----------------------------------------------------		OT			Ready Player One
 Real Steel																T		----------------------------------------------------		OT			Real Steel
+Replicas																T		----------------------------------------------------		OT			Replicas
 Resident Evil: Afterlife												T		----------------------------------------------------		OT			Resident Evil: Afterlife
 Resident Evil: Retribution												T		----------------------------------------------------		OT			Resident Evil: Retribution
 Resident Evil: The Final Chapter										T		----------------------------------------------------		OT			Resident Evil: The Final Chapter
@@ -332,5 +337,6 @@ Zurück in die Zukunft III												T		Back to the future III										OT			Ba
 22 Bullets		<OG>													T		----------------------------------------------------		OT			L’Immortel
 28 Days Later															T		----------------------------------------------------		OT			28 Days Later
 28 Weeks Later															T		----------------------------------------------------		OT			28 Weeks Later
+96 Hours - Taken 3 (Extended Cut)										T		----------------------------------------------------		OT			96 Hours - Taken 3 (Extended Cut)
 300																		T		----------------------------------------------------		OT			300
 300 - Rise Of An Empire													T		----------------------------------------------------		OT			300: Rise of an Empire
