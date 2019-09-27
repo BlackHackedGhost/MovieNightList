@@ -1,4 +1,4 @@
-Last Update: >13.09.2019 
+Last Update: >27.09.2019 
 List by BlackHackedGhost
 Self link for this Repositorie > https://github.com/BlackHackedGhost/MovieNightList
 If u want something ping me in discord ;)
@@ -174,7 +174,8 @@ Interstellar (2014)														T		--------------------------------------------
 Iron Man																T		----------------------------------------------------		OT			Iron Man
 Iron Man 2																T		----------------------------------------------------		OT			Iron Man 2
 Iron Man 3																T		----------------------------------------------------		OT			Iron Man 3
-Iron Sky - Director's Cut												T		----------------------------------------------------		OT			Iron Sky: The Coming Race
+Iron Sky - Director's Cut												T		----------------------------------------------------		OT			Iron Sky
+Iron Sky - The Coming Race												T		----------------------------------------------------		OT			Iron Sky: The Coming Race
 Jack Reacher															T		----------------------------------------------------		OT			Jack Reacher
 Jack Reacher: Kein Weg Zurück											T		Jack Reacher: No way back									OT			Jack Reacher: Never Go Back
 Jagdfieber																T		Hunting fever												OT			Open Season
@@ -184,6 +185,7 @@ Jin-Roh: The Wolf Brigade												T		----------------------------------------
 Joe's Apartment															T		----------------------------------------------------		OT			Joe's Apartment
 John Wick																T		----------------------------------------------------		OT			John Wick
 John Wick: Kapitel 2													T		John Wick: Chapter 2										OT			John Wick: Chapter 2
+John Wick: Kapitel 3													T		John Wick: Chapter 3										OT			John Wick: Chapter 3 – Parabellum
 Jurassic World															T		----------------------------------------------------		OT			Jurassic World
 Justice League															T		----------------------------------------------------		OT			Justice League
 Katakomben																T		Catacombs													OT			As Above, So Below
@@ -217,6 +219,7 @@ Mardock Scramble: The First Compression	1								T		----------------------------
 Mardock Scramble: The Second Combustion	2								T		----------------------------------------------------		OT			マルドゥック・スクランブル 2
 Mardock Scramble - The Third Exhaust 3									T		----------------------------------------------------		OT			マルドゥック・スクランブル 3
 Marvel Studios Avengers: Endgame										T		----------------------------------------------------		OT			Avengers: Endgame
+Marvel Studios' Captain Marvel											T		----------------------------------------------------		OT			Captain Marvel
 Matrix																	T		----------------------------------------------------		OT			The Matrix
 Matrix Reloaded															T		----------------------------------------------------		OT			The Matrix Reloaded
 Matrix Revolutions														T		----------------------------------------------------		OT			The Matrix Revolutions
