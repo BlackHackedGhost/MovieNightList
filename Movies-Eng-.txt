@@ -9,7 +9,6 @@ List is sorted alphabetically on the german counterpart List
 
 Description "what is what" / "what means that??"
 
-----------------------------------------------------	>	means that the title is already in english
 <OG>	= Only in german  [Only marked next to the title]
 !C 		= Converted
 !L []	= Language [<LanguageCode>] {Ger,Eng}
