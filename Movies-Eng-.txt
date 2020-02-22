@@ -1,4 +1,4 @@
-Last Update: >18.02.2020
+Last Update: >22.02.2020
 List by BlackHackedGhost
 Self link for this Repositorie > https://github.com/BlackHackedGhost/MovieNightList
 If u want something ping me in discord ;)
@@ -229,8 +229,8 @@ Mission: Impossible - Fallout
 Mission: Impossible – Rogue Nation									
 Monsters vs. Aliens													
 Need for Speed														
-New Kids Nitro														
-New Kids Turbo														
+New Kids Nitro														<OG>
+New Kids Turbo														<OG>
 Short Circuit 2														
 Up																	
 Oblivion															
@@ -284,7 +284,7 @@ Shooter
 John Carpenter’s They Live											
 Sleepless															
 Snow White and the Huntsman											
-Snowpiercer															
+Snowpiercer															<OG>
 Kyaputen Hārokku – Space Pirate Captain Harlock						
 Spaceballs															
 Spider-Man: Far From Home											
@@ -296,7 +296,7 @@ Star Wars: Episode IV – A New Hope
 Star Wars: Episode V – The Empire Strikes Back						
 Star Wars: Episode VI – Return of the Jedi							
 Star Wars: The Force Awakens										
-Steamboy															
+Steamboy															<OG>
 Die Hard															
 Die Hard 2: Die Harder												
 Die Hard with a Vengeance											
@@ -316,7 +316,7 @@ Tron: Legacy
 Turkish for beginners												<OG>
 Under sandet														
 Venom																
-Vive la France														
+Vive la France														<OG>
 Wall-E																
 War Dogs (2016)														
 Waterworld															
@@ -332,7 +332,7 @@ Zootopia
 Back to the Future I												
 Back to the Future II												
 Back to the Future III												
-L’Immortel															
+L’Immortel															<OG>
 28 Days Later														
 28 Weeks Later														
 96 Hours - Taken 3 (Extended Cut)									
