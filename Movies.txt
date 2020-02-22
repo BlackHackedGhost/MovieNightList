@@ -1,4 +1,4 @@
-Last Update: >27.09.2019 
+Last Update: >22.02.2020
 List by BlackHackedGhost
 Self link for this Repositorie > https://github.com/BlackHackedGhost/MovieNightList
 If u want something ping me in discord ;)
@@ -28,6 +28,7 @@ some translation may give no sense ;)
 
 Ab Durch die Hecke														T		Off Through the hedge										OT			Over the Hedge
 The Accountant															T		----------------------------------------------------		OT			The Accountant
+Ad Astra - Zu den Sternen												T		Ad Astra - To the stars										OT			Ad Astra
 Alita: Battle Angle														T		----------------------------------------------------		OT			Alita: Battle Angle
 Alles steht Kopf														T		Everything is upside down									OT			Inside Out
 Almost Human (2013)														T		----------------------------------------------------		OT			Almost Human (2013)
@@ -76,7 +77,9 @@ Constantine																T		--------------------------------------------------
 Cowboys & Aliens														T		----------------------------------------------------		OT			Cowboys & Aliens
 Crank																	T		----------------------------------------------------		OT			Crank
 Crank 2: High Voltage													T		----------------------------------------------------		OT			Crank: High Voltage
+Cube																	T		----------------------------------------------------		OT			Cube
 Cube Zero																T		----------------------------------------------------		OT			Cube Zero
+The Dark Knight															T		----------------------------------------------------		OT			The Dark Knight
 The Dark Knight Rises													T		----------------------------------------------------		OT			The Dark Knight Rises
 Das grosse Krabbeln Deluxe												T		The big crawling deluxe										OT			A Bug’s Life
 The Day After Tomorrow								XX C XX	{GER}		T		----------------------------------------------------		OT			The Day After Tomorrow
@@ -231,6 +234,7 @@ The Mechanic															T		--------------------------------------------------
 Mechanic: Resurrection													T		----------------------------------------------------		OT			Mechanic: Resurrection
 Meine Frau, die Spartaner und ich										T		My wife, the Spartans and I									OT			Meet the Spartans
 Merida: Legende der Highlands											T		----------------------------------------------------		OT			Brave
+Man in Black: International												T		----------------------------------------------------		OT			Man in Black: International
 Minions																	T		----------------------------------------------------		OT			Minions
 Mission: Impossible - Fallout											T		----------------------------------------------------		OT			Mission: Impossible - Fallout
 Mission: Impossible - Rogue Nation										T		----------------------------------------------------		OT			Mission: Impossible – Rogue Nation
@@ -294,6 +298,7 @@ Snow White and the Huntsman												T		--------------------------------------
 Snowpiercer											XX C XX	{GER}		T		----------------------------------------------------		OT			설국열차
 Space Pirate Captain Harlock	<OG>									T		----------------------------------------------------		OT			Kyaputen Hārokku – Space Pirate Captain Harlock
 Spaceballs - Mel Brooks' verrückte Raumfahrt							T		Spaceballs - Mel Brooks' crazy space flight					OT			Spaceballs
+Spider-Man: Far From Home												T		----------------------------------------------------		OT			Spider-Man: Far From Home
 Spider-Man: Homecoming													T		----------------------------------------------------		OT			Spider-Man: Homecoming
 Star Wars: Die dunkle Bedrohung	I										T		Star Wars: The Dark Threat I								OT			Star Wars: Episode I – The Phantom Menace
 Star Wars: Angriff der Klonkrieger II									T		Star Wars: Attack of the Clone Warriors II					OT			Star Wars: Episode II – Attack of the Clones
@@ -321,6 +326,7 @@ Trolls																	T		----------------------------------------------------		
 Tron: Legacy															T		----------------------------------------------------		OT			Tron: Legacy
 Türkisch für Anfänger	<OG>											T		Turkish for beginners										OT			Türkisch für Anfänger
 Unter dem Sand - Das Versprechen der Freiheit							T		Under the Sand - The Promise of Freedom						OT			Under sandet
+Venom																	T		----------------------------------------------------		OT			Venom
 Vive la France - Gesprengt wird später	<OG>							T		Vive la France - Blasting will take place later				OT			Vive la France
 Wall-E																	T		----------------------------------------------------		OT			Wall-E
 War Dogs (2016)															T		----------------------------------------------------		OT			War Dogs (2016)
