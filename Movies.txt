@@ -13,8 +13,8 @@ Translator used https://www.deepl.com/translator + common sence
 Description "what is what" / "what means that??"
 
 ----------------------------------------------------	>	means that the title is already in english
-T 		= Translated
-OT 		= Original Title
+T 	= Translated
+OT 	= Original Title
 <OG>	= Only in german  [Only marked next to the title]
 XX C XX = Converted, Language is shown in {}
 
@@ -24,7 +24,7 @@ some translation may give no sense ;)
 
 
 
-		/// German Title \\\					|		/// Translated Title (1/1 from german to english) \\\		|							/// Original Title \\\							|
+			/// German Title \\\				|		/// Translated Title (1/1 from german to english) \\\		|			/// Original Title \\\				|
 
 Ab Durch die Hecke							T		Off Through the hedge						OT			Over the Hedge
 The Accountant								T		----------------------------------------------------		OT			The Accountant
