@@ -15,42 +15,42 @@ Beschreibung "Was bedeutet Was"
 
 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
-Ab Durch die Hecke														
+Ab Durch die Hecke														!C
 The Accountant															
-Ad Astra - Zu den Sternen												
-Alita: Battle Angle														
-Alles steht Kopf														
-Almost Human (2013)														
+Ad Astra - Zu den Sternen												!C
+Alita: Battle Angle														!C	<OG>
+Alles steht Kopf														!C
+Almost Human (2013)														!C	<OG>
 The Amazing Spider-Man													
 The Amazing Spider-Man 2 Rise Of Electro								
-American Sniper															
-Ant-Man																	
-Ant-Man and the Wasp													
-Antigang																
-Antisocial (2013)														
-Aquaman (2018)															
-Arthur und die Minimoys													
-Arthur und die Minimoys 2: Die Rückkehr des bösen M						
-Arthur und die Minimoys 3: Die große Entscheidung						
-Assassin's Creed														
-Astro Boy - Der Film													
-Attack the Block														
-Automata																
-Avatar - Aufbruch nach Pandora											
+American Sniper															!C
+Ant-Man																	!C
+Ant-Man and the Wasp													!C
+Antigang																!C	<OG>
+Antisocial (2013)														!C	<OG>
+Aquaman (2018)															!C
+Arthur und die Minimoys													!C	<OG>
+Arthur und die Minimoys 2: Die Rückkehr des bösen M						!C	<OG>
+Arthur und die Minimoys 3: Die große Entscheidung						!C	<OG>
+Assassin's Creed														!C
+Astro Boy - Der Film													!C	<OG>
+Attack the Block														!C	<OG>
+Automata																!C	<OG>
+Avatar - Aufbruch nach Pandora											!C
 The Avengers															
-Avengers: Age of Ultron													
-Avengers: Infinity War													
-Barry Seal: Only in America												
-Batman v Superman: Dawn of Justice (Ult. Ed.)							
-Baymax: Riesiges Robowabohu												
-Bean - Der ultimative Katastrophenfilm									
-Bee Movie - Das Honigkomplott											
-Berserk - Das goldene Zeitalter 1										
-Berserk - Das goldene Zeitalter 2										
-Berserk - Das goldene Zeitalter 3										
-Beyond the Front Line - Kampf um Karelien								
-Black Panther															
-Blackhat																
+Avengers: Age of Ultron													!C
+Avengers: Infinity War													!C
+Barry Seal: Only in America												!C
+Batman v Superman: Dawn of Justice (Ult. Ed.)							!C
+Baymax: Riesiges Robowabohu												!C
+Bean - Der ultimative Katastrophenfilm									!C	<OG>
+Bee Movie - Das Honigkomplott											!C
+Berserk - Das goldene Zeitalter 1										!C	<OG>
+Berserk - Das goldene Zeitalter 2										!C	<OG>
+Berserk - Das goldene Zeitalter 3										!C	<OG>
+Beyond the Front Line - Kampf um Karelien								!C	<OG>
+Black Panther															!C
+Blackhat																!C
 Blade Runner 2049														
 Blood-C: The Last Dark													
 Bloodwork																
@@ -256,7 +256,7 @@ Prince of Persia: Der Sand der Zeit
 Project Almanac															
 Project X (Xtended Cut)													
 Prometheus - Dunkle Zeichen												
-A Quiet Place															
+A Quiet Place															!C
 Ralph reichts															
 Rango (2011)															
 Rapunzel: Neu Verföhnt													
@@ -325,7 +325,7 @@ The Wolf of Wall Street
 Wolking mit Aussicht auf Fleischbällchen 1								
 Wolking mit Aussicht Auf Fleischbällchen 2								
 Wonder Woman (2017)														
-A World Beyond															
+A World Beyond															!C
 World War Z																
 X-Men: Apocalypse														
 Zoomania																
